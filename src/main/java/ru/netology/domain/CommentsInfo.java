@@ -6,5 +6,6 @@ public class CommentsInfo {
     private int groupsCanPost;
     private boolean canClose;
     private boolean can_Open;
+
     // + get/set на все поля
 }

@@ -6,5 +6,6 @@ public class Donut {
     private Placeholder placeholder;
     private boolean canPublishFreeCopy;
     private String editMode;
+
     // + get/set на все поля
 }

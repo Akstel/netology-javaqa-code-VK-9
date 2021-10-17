@@ -13,5 +13,6 @@ public class Place {
     private int country;
     private int city;
     private String address;
+
     // + get/set на все поля
 }

@@ -18,8 +18,8 @@ public class Post {
     private int replyOwnerId;
     private int replyPostId;
     private int postponedId;
-    private int friendsOnly;
     private int signerId;
+    private int friendsOnly;
     private int canPin;
     private int canDelete;
     private int canEdit;
