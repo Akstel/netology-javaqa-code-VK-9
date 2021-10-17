@@ -5,6 +5,5 @@ public class PostSource {
     private String platform;
     private String data;
     private String url;
-
     // + get/set на все поля
 }
